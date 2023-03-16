@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 header{
     background-color: lightgray;
+=======
+table{
+    border: 3px dotted black;
+}
+header{
+    margin: 20px;
+>>>>>>> dev2
 }
